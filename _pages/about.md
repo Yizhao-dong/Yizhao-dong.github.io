@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- Currently, I am a first year master student at the School of Artificial Intelligence, Xi'an Jiaotong University. I have received the B.E. degree in computer science and technology from Xidian University in 2018, and the M.S. degree in intelligent science and technology supervised by Professor Rongrong Ji from Xiamen University in 2021.
+ Currently, I am a first-year master student at the School of Artificial Intelligence, Xi'an Jiaotong University, where I am very fortunate to be advised by Professor [Shaoyi Du](https://gr.xjtu.edu.cn/en/web/dushaoyi/home).
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
