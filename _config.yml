@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Rundong Xue"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "yizhao-dong.github.io"
+description              : "Major in Artificial Intelligence "
+repository               : "yizhao-dong/yizhao-dong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rundong Xue"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Xi'an Jiaotong University"
+  bio              : "National Key Laboratory of Human-Machine Hybrid Augmented Intelligence, National Engineering Research Center for Visual Information and Applications, and Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=Yzg32KUAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "xuerundong@stu.xjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
