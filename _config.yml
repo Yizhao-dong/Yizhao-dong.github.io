@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rundong Xue"
-description              : "Major in Artificial Intelligence "
+description              : "A first-year master student in the School of Artificial Intelligence at Xi'an Jiaotong University."
 repository               : "yizhao-dong/yizhao-dong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Rundong Xue"
+  name             : "Rundong Xue (薛润东)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "National Key Laboratory of Human-Machine Hybrid Augmented Intelligence, and Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University"
+  bio              : "National Key Laboratory of Human-Machine Hybrid Augmented Intelligence, and Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University."
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
